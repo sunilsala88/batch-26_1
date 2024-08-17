@@ -21,6 +21,7 @@ b=ta.bbands(data['Close'])
 print(b)
 
 
+
 # mpf.plot(data,type='candle',style='yahoo')
 
 
